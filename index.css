@@ -20,7 +20,7 @@ main {
   /*flex-direction: column;
   flex-wrap: wrap;*/
   flex-flow: column wrap;
-  justify-content: center;
+  /*justify-content: center;*/
   /*align-items: center;*/
   background-color: #92C9D5;
   width: 100%;
